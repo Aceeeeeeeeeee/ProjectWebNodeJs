@@ -21,7 +21,8 @@ productRouter.route("/1").get((req, res) => {
   res.set("Product 2 ");
 });
 
-app.use("/Products", productRouter);
+app.use("/products", productRouter);
+
 
 app.get("/", (req, res) => {
   res.render("index", {
