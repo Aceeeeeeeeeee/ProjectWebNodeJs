@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "productTitle": "น้ำยาล้างจาน 1",
+    "productDescription": "สูตรใหม่ 1",
+    "productPrice": 41
+  },
+  {
+    "id": 1,
+    "productTitle": "น้ำยาล้างจาน 2",
+    "productDescription": "สูตรใหม่ 2",
+    "productPrice": 42
+  },
+  {
+    "id": 2,
+    "productTitle": "น้ำยาล้างจาน 3",
+    "productDescription": "สูตรใหม่ 3",
+    "productPrice": 45
+  },
+  {
+    "id": 3,
+    "productTitle": "น้ำยาล้างจาน 4",
+    "productDescription": "สูตรใหม่ 4",
+    "productPrice": 50
+  },
+  {
+    "id": 4,
+    "productTitle": "น้ำยาล้างจาน 5",
+    "productDescription": "สูตรใหม่ 5",
+    "productPrice": 53
+  }
+]
